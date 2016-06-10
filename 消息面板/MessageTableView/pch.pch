@@ -1,0 +1,25 @@
+//
+//  pch.pch
+//  MessageTableView
+//
+//  Created by 杨力 on 14/5/2016.
+//  Copyright © 2016 杨力. All rights reserved.
+//
+
+#ifndef pch_pch
+#define pch_pch
+
+#import "param_list.h"
+#import "CommonDefin.h"
+#import "ButtonSize.h"
+#import "Tools.h"
+#import "StringConstants.h"
+#import "YLAutoLayOut.h"
+#import "Common.h"
+#import "UIColor+RandomColor.h"
+#import "UILabel+LXAdd.h"
+
+
+
+
+#endif /* pch_pch */
